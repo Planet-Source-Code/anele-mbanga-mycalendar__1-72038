@@ -1,0 +1,16 @@
+[History]
+B0=CalendarTest/MyCalendar/CurrentDate
+B1=CalendarTest/frmCalendar/Form_Load
+B2=CalendarTest/frmCalendar/cmdReset_Click
+B3=CalendarTest/frmCalendar/MyCalendar_DayClick
+B4=CalendarTest/frmCalendar/MyCalendar_YearChange
+B5=CalendarTest/frmCalendar/MyCalendar_MonthChange
+B6=CalendarTest/frmCalendar/ShowDetails
+B7=CalendarTest/MyCalendar/WorkingDays
+B8=CalendarTest/MyCalendar/Appearance
+B9=CalendarTest/MyCalendar/AddHighlight
+B10=CalendarTest/MyCalendar
+B11=CalendarTest/MyCalendar/UserControl_WriteProperties
+B12=CalendarTest/MyCalendar/EndDate
+B13=CalendarTest/MyCalendar/StartDate
+B14=CalendarTest/MyCalendar/CurrentDateBackColor
